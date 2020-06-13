@@ -1,6 +1,0 @@
-to subscribe PushTopic use following 
-/topic/UpdateAccountType
-
-to subscribe PlatformEvent use following
-/event/UpdateAccountType__e
-
